@@ -1,0 +1,22 @@
+...	
+	melm = new MultiElasticLayerManager();
+        melm.init(layeNumb,loadNumb,poinNumb);
+	
+        for (i=0;i<layeNumb;i++)
+            melm.layerPropertiesSet(i, E[i], v[i], h[i]);
+        
+        for (i=0;i<loadNumb;i++)
+            melm.loadPropertiesSet(i, Pl[i], ql[i], xl[i], yl[i]);
+        
+        for (i=0;i<poinNumb;i++)
+            melm.measurePointPropertiesSet(i, xk[i], yk[i], zk[i]);
+        
+        melm.solveMultiElasticLayerSystem();
+        hoy = new Date();
+        System.out.print("\nNumero de capas elasticas en el analisis: " + layeNumb +"\n");
+        System.out.println(hoy.toString());
+        
+        poinNumb = melm.measurePointNumber();
+        String[][] resu = melm.results();
+        printInterfaceResults(poinNumb, resu);
+...

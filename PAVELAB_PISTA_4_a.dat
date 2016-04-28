@@ -1,0 +1,208 @@
+<PITRA_PAVE>
+	<fileVersion>1.1.0</fileVersion>
+</PITRA_PAVE>
+
+<filePreferences>
+	<unitSystem>1</unitSystem>
+</filePreferences>
+<analysisPreferences>
+	<type>1</type>
+	<linearity>1</linearity>
+	<time>1</time>
+</analysisPreferences>
+<loadsPreferences>
+	<configuration>1</configuration>
+	<geometry>1</geometry>
+	<distribution>1</distribution>
+	<type>1</type>
+</loadsPreferences>
+<pointsPreferences>
+	<configuration>1</configuration>
+</pointsPreferences>
+<MLEL>
+	<LayersCoupling>1</LayersCoupling>
+	<LayersNumber>4</LayersNumber>
+	<LoadsNumber>1</LoadsNumber>
+	<PointsNumber>20</PointsNumber>
+</MLEL>
+<Layer>
+	<ID>1</ID>
+	<young>3.8E9</young>
+	<poisson>0.35</poisson>
+	<thickness>0.132</thickness>
+	<description>Capa asfaltica</description>
+	<materialType>1</materialType>
+</Layer>
+<Layer>
+	<ID>2</ID>
+	<young>1.2E9</young>
+	<poisson>0.2</poisson>
+	<thickness>0.249</thickness>
+	<description>Base (BEC)</description>
+	<materialType>1</materialType>
+</Layer>
+<Layer>
+	<ID>3</ID>
+	<young>1.4E8</young>
+	<poisson>0.4</poisson>
+	<thickness>0.301</thickness>
+	<description>SubBase</description>
+	<materialType>1</materialType>
+</Layer>
+<Layer>
+	<ID>4</ID>
+	<young>7.0E7</young>
+	<poisson>0.45</poisson>
+	<thickness>1234.0</thickness>
+	<description>Subrasante</description>
+	<materialType>1</materialType>
+</Layer>
+<Load>
+	<ID>1</ID>
+	<load>40000.0</load>
+	<pres>753396.1803</pres>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+</Load>
+<MeasurePoint>
+	<ID>1</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.0</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>2</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.033</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>3</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.066</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>4</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.099</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>5</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.132</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>6</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.1321</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>7</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.19425</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>8</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.2565</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>9</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.31875</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>10</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.381</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>11</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.3811</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>12</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.45625</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>13</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.5315</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>14</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.60675</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>15</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.6819</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>16</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.6821</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>17</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>0.75</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>18</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>1.0</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>19</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>1.6</zCoor>
+</MeasurePoint>
+<MeasurePoint>
+	<ID>20</ID>
+	<xCoor>0.0</xCoor>
+	<yCoor>0.0</yCoor>
+	<zCoor>2.5</zCoor>
+</MeasurePoint>
+<ResultInformation>
+	<results>1, 0.0000e+00, 0.0000e+00, 3.1007e-04, 1.2627e-04, 1.2627e-04,-1.2484e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.1438e+06, 1.1438e+06, 7.5322e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.1438e+06, 1.1438e+06, 7.5322e+05, 1.2627e-04, 1.2627e-04,-1.2484e-05</results>
+	<results>2, 0.0000e+00, 0.0000e+00, 3.0913e-04, 5.0014e-05, 5.0014e-05, 6.3844e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 6.7893e+05, 6.7893e+05, 7.1786e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 7.1786e+05, 6.7893e+05, 6.7893e+05, 6.3844e-05, 5.0014e-05, 5.0014e-05</results>
+	<results>3, 0.0000e+00, 0.0000e+00, 3.0627e-04,-3.6257e-06,-3.6257e-06, 1.0357e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.0611e+05, 3.0611e+05, 6.0786e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 6.0786e+05, 3.0611e+05, 3.0611e+05, 1.0357e-04,-3.6257e-06,-3.6257e-06</results>
+	<results>4, 0.0000e+00, 0.0000e+00, 3.0254e-04,-4.2769e-05,-4.2769e-05, 1.2138e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-2.6719e+03,-2.6719e+03, 4.5939e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 4.5939e+05,-2.6719e+03,-2.6719e+03, 1.2138e-04,-4.2769e-05,-4.2769e-05</results>
+	<results>5, 0.0000e+00, 0.0000e+00, 2.9819e-04,-8.4127e-05,-8.4127e-05, 1.4558e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-3.1128e+05,-3.1128e+05, 3.3529e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.3529e+05,-3.1128e+05,-3.1128e+05, 1.4558e-04,-8.4127e-05,-8.4127e-05</results>
+	<results>6, 0.0000e+00, 0.0000e+00, 2.9816e-04,-8.4095e-05,-8.4095e-05, 2.9331e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-4.2389e+04,-4.2389e+04, 3.3502e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.3502e+05,-4.2389e+04,-4.2389e+04, 2.9331e-04,-8.4095e-05,-8.4095e-05</results>
+	<results>7, 0.0000e+00, 0.0000e+00, 2.8368e-04,-6.8867e-05,-6.8867e-05, 1.8163e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-5.4236e+04,-5.4236e+04, 1.9626e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.9626e+05,-5.4236e+04,-5.4236e+04, 1.8163e-04,-6.8867e-05,-6.8867e-05</results>
+	<results>8, 0.0000e+00, 0.0000e+00, 2.7464e-04,-6.6292e-05,-6.6292e-05, 1.1494e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-7.2174e+04,-7.2174e+04, 1.0905e+05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.0905e+05,-7.2174e+04,-7.2174e+04, 1.1494e-04,-6.6292e-05,-6.6292e-05</results>
+	<results>9, 0.0000e+00, 0.0000e+00, 2.6871e-04,-7.7985e-05,-7.7985e-05, 8.0427e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00,-1.0317e+05,-1.0317e+05, 5.5245e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 5.5245e+04,-1.0317e+05,-1.0317e+05, 8.0427e-05,-7.7985e-05,-7.7985e-05</results>
+	<results>10, 0.0000e+00, 0.0000e+00, 2.6399e-04,-1.0964e-04,-1.0964e-04, 7.7509e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00,-1.5690e+05,-1.5690e+05, 3.0249e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.0249e+04,-1.5690e+05,-1.5690e+05, 7.7509e-05,-1.0964e-04,-1.0964e-04</results>
+	<results>11, 0.0000e+00, 0.0000e+00, 2.6396e-04,-1.0960e-04,-1.0960e-04, 2.4693e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-5.4169e+03,-5.4169e+03, 3.0236e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.0236e+04,-5.4169e+03,-5.4169e+03, 2.4693e-04,-1.0960e-04,-1.0960e-04</results>
+	<results>12, 0.0000e+00, 0.0000e+00, 2.4767e-04,-8.7000e-05,-8.7000e-05, 1.9120e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-5.2593e+03,-5.2593e+03, 2.2561e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 2.2561e+04,-5.2593e+03,-5.2593e+03, 1.9120e-04,-8.7000e-05,-8.7000e-05</results>
+	<results>13, 0.0000e+00, 0.0000e+00, 2.3466e-04,-7.4670e-05,-7.4670e-05, 1.5750e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-5.8353e+03,-5.8353e+03, 1.7381e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.7381e+04,-5.8353e+03,-5.8353e+03, 1.5750e-04,-7.4670e-05,-7.4670e-05</results>
+	<results>14, 0.0000e+00, 0.0000e+00, 2.2358e-04,-6.9866e-05,-6.9866e-05, 1.3923e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-7.0862e+03,-7.0862e+03, 1.3824e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.3824e+04,-7.0862e+03,-7.0862e+03, 1.3923e-04,-6.9866e-05,-6.9866e-05</results>
+	<results>15, 0.0000e+00, 0.0000e+00, 2.1338e-04,-7.2228e-05,-7.2228e-05, 1.3483e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00,-9.1486e+03,-9.1486e+03, 1.1557e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.1557e+04,-9.1486e+03,-9.1486e+03, 1.3483e-04,-7.2228e-05,-7.2228e-05</results>
+	<results>16, 0.0000e+00, 0.0000e+00, 2.1335e-04,-7.2222e-05,-7.2222e-05, 1.6169e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 2.6025e+02, 2.6025e+02, 1.1553e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.1553e+04, 2.6025e+02, 2.6025e+02, 1.6169e-04,-7.2222e-05,-7.2222e-05</results>
+	<results>17, 0.0000e+00, 0.0000e+00, 2.0306e-04,-6.3301e-05,-6.3301e-05, 1.4212e-04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.1470e+02, 3.1470e+02, 1.0231e+04, 0.0000e+00, 0.0000e+00, 0.0000e+00, 1.0231e+04, 3.1470e+02, 3.1470e+02, 1.4212e-04,-6.3301e-05,-6.3301e-05</results>
+	<results>18, 0.0000e+00, 0.0000e+00, 1.7393e-04,-4.2422e-05,-4.2422e-05, 9.5989e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.7323e+02, 3.7323e+02, 7.0551e+03, 0.0000e+00, 0.0000e+00, 0.0000e+00, 7.0551e+03, 3.7323e+02, 3.7323e+02, 9.5989e-05,-4.2422e-05,-4.2422e-05</results>
+	<results>19, 0.0000e+00, 0.0000e+00, 1.3292e-04,-2.1337e-05,-2.1337e-05, 4.9027e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.4983e+02, 3.4983e+02, 3.7467e+03, 0.0000e+00, 0.0000e+00, 0.0000e+00, 3.7467e+03, 3.4983e+02, 3.4983e+02, 4.9027e-05,-2.1337e-05,-2.1337e-05</results>
+	<results>20, 0.0000e+00, 0.0000e+00, 1.0095e-04,-1.1507e-05,-1.1507e-05, 2.6737e-05, 0.0000e+00, 0.0000e+00, 0.0000e+00, 2.5348e+02, 2.5348e+02, 2.0998e+03, 0.0000e+00, 0.0000e+00, 0.0000e+00, 2.0998e+03, 2.5348e+02, 2.5348e+02, 2.6737e-05,-1.1507e-05,-1.1507e-05</results>
+</ResultInformation>
